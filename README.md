@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm D3stan 👋
 
-<!--
-**D3stan/D3stan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=D3stan&color=blueviolet)
 
-Here are some ideas to get you started:
+## About Me
+Nothing much at the moment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ GitHub Stats
+
+![D3stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3stan&show_icons=true&theme=radical)
+
+## 🔥 Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D3stan&theme=radical)
+
+## 🔧 Languages & Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3stan&layout=compact&theme=radical)
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=D3stan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Contribution Graph
+
+![D3stan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=D3stan&theme=radical)
