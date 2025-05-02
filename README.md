@@ -12,6 +12,7 @@ I'm a **Student** 🎓 at [University of Bologna](https://www.unibo.it/) majorin
 ## 🔧 Languages & Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3stan&layout=compact&theme=radical)
+
 _Note: this chart refers to public repos only_
 
 ## 🏆 Achievements
