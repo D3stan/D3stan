@@ -14,8 +14,3 @@ I'm a **Student** 🎓 at [University of Bologna](https://www.unibo.it/) majorin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3stan&layout=compact&theme=radical)
 
 _Note: this chart refers to public repos only_
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=D3stan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- 
