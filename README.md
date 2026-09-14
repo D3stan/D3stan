@@ -3,7 +3,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=D3stan&color=blueviolet)
 
 ## 👤 About Me
-I'm a **Student** 🎓 at [University of Bologna](https://www.unibo.it/) majoring in **Computer Science and Engineering**. I'm passioned about motorsport, that's why I love electronics and mechanics too!
+I'm a **Student** 🎓 at [Technical University of Denmark](https://www.dtu.dk/English/) majoring in **Computer Science and Engineering**. I'm passioned about motorsport, that's why I love electronics and mechanics too!
+
+## Recent Work
+Bs.C. Thesis: Design and Development of a Software‑Defined ECU with a Server‑Side Digital Twin for Single‑Cylinder Internal Combustion Engines
+
+![Board](./ecu-dev-board-nobg.png)
+
 <!--
 ## ⚙️ GitHub Stats
 
